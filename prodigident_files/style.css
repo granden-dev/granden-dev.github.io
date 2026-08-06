@@ -1,0 +1,17 @@
+.window {position:relative}
+.instagram {position: absolute;top:186;left:40;width:165px;height:45px;}
+.facebook {position: absolute;top:255;left:40;width:165px;height:45px;}
+.linkedin {position: absolute;bottom:142;left:40;width:165px;height:45px;}
+.youtube {position: absolute;bottom:72;left:40;width:165px;height:45px;}
+.version {display:none;}
+/**/
+.more {
+    position: absolute;
+    bottom: 100px;
+    left: 85;
+    width: 295px;
+    height: 70px;
+}
+/*.more {position: absolute;bottom:125;left:25;width:272px;height:45px;}*/
+/**/
+.black-friday2 {position: absolute;bottom: 45;left: 120;width: 260px;height: 45px;}
